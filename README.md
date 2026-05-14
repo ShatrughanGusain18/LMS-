@@ -145,6 +145,5 @@ By leveraging open-source LLMs and modern AI frameworks, we can build powerful, 
 
 ### 👨‍💻 Author
 **Shatrughan Gusain**  
-AI & Data Analytics Trainer
   
  
